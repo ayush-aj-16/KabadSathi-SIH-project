@@ -1,0 +1,6 @@
+{
+  "name": "Kabad Sathi",
+  "description": "Offline-first e-waste collection and recycling platform with seamless sync, local price caching, offline safety guidance, and lot management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
